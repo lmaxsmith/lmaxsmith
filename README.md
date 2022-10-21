@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lmaxsmith
-- 👀 I’m interested in ... space! and spatial computiong.
+- 👀 I’m interested in ... space! and spatial computing.
 - 🌱 I’m currently learning ... computer vision.
 - 💞️ I’m looking to collaborate on ... https://www.argyle.build/
 - 📫 How to reach me ... https://twitter.com/spatial_hair
